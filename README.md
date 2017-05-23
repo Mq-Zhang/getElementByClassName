@@ -1,0 +1,2 @@
+# getElementByClassName
+替换getElementByClassName
